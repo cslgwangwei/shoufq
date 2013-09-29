@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;}
+img{border: 0;}
+ul,li{list-style: none;}
+a{text-decoration: none;}
+
+
+dl{width: 500px;margin: 50px auto;overflow: hidden;border:1px solid #ccc;}
+dt{height: 30px;line-height: 30px;border-top:1px solid #ccc;border-bottom: 1px solid #ccc;background-color: #ccc;cursor: pointer;}
